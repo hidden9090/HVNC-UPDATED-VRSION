@@ -6,7 +6,7 @@ PLEASE USE THIS CODE CAREFULLY IT'S VERY DANGEROUS
  
 Telegram: (https://t.me/hidden9090)   
              
-# Features:        
+# Features:         
 - Start Explorer (Hidden Desktop)
 - Open "Run"
 - Start Powershell
